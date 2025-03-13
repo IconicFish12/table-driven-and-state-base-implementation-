@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace table_driven_and_state_based
 {
-    class KodeProduk
+    internal class KodeProduk
     {
         public enum Produk
         {
